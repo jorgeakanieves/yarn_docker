@@ -1,0 +1,53 @@
+Port 2123
+
+SendEnv LANG LC_*
+HashKnownHosts yes
+GSSAPIAuthentication yes
+PubkeyAuthentication yes		
+Host hsperfdata_root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
